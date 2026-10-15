@@ -79,5 +79,6 @@ Enter your input in the Gradio interface, click **Recommend**, and get your resu
 ---
 
 ## 🖼️ Sample Output
+<img width="1822" height="826" alt="Screenshot 2026-10-15 202950" src="https://github.com/user-attachments/assets/49a8882a-f535-4cf7-84dd-a8a4f7dd3dd9" />
 
-<img width="1229" alt="Sample output" src="sample_output.png" />
+
